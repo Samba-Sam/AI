@@ -1,0 +1,1 @@
+The number of words in the file "C:/Users/siddh/OneDrive/Desktop/Git/AI-ML/Task 1/File Handling/example.txt" is: 4
